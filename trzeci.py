@@ -1,1 +1,1 @@
-print("Jakiś tekst")
+hhhh
